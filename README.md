@@ -9,3 +9,8 @@
 - Models (Police Man) - Mixamo.com 
 - Doctor - Pack3dModels 
 - Cures - SketchFab
+## Sound effects
+- Mixkit: https://mixkit.co/
+- ZapSplat: https://www.zapsplat.com/
+## Player controller
+- Unity: https://assetstore.unity.com/packages/3d/characters/modular-first-person-controller-189884.
